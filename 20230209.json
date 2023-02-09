@@ -602,7 +602,7 @@
     "status": "可用"
   },
   {
-    "key": "��ɫ",
+    "key": "xiuse1",
     "id": 54,
     "name": "秀色",
     "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
@@ -613,7 +613,7 @@
     "status": "可用"
   },
   {
-    "key": "��ɫ2",
+    "key": "xiuse2",
     "id": 55,
     "name": "秀色2",
     "api": "https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/",
@@ -624,7 +624,7 @@
     "status": "可用"
   },
   {
-    "key": "���",
+    "key": "dadi",
     "id": 61,
     "name": "大地",
     "api": "https://dadiapi.com/api.php",
@@ -634,7 +634,7 @@
     "status": "可用"
   },
   {
-    "key": "ɫ��",
+    "key": "sewozy",
     "id": 67,
     "name": "涩窝",
     "api": "https://sewozyapi.com/api.php/provide/vod/at/xml",
@@ -644,7 +644,7 @@
     "status": "可用"
   },
   {
-    "key": "��MM",
+    "key": "dMM",
     "id": 68,
     "name": "大MM",
     "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml",
